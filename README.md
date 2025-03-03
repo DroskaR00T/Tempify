@@ -42,7 +42,7 @@ Un bot Discord moderne et professionnel permettant la création et la gestion d'
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/0xDroska/tempify.git
+   git clone https://github.com/DroskaR00T/tempify.git
    cd tempify
    ```
 
